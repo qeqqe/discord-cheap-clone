@@ -1,0 +1,645 @@
+[
+  {
+    "id": 1,
+    "name": "pisscord",
+    "icon": "/server1.jfif",
+    "users": [
+      {
+        "userId": 1,
+        "userName": "evil",
+        "status": "online",
+        "pfp": "/pfp1.webp"
+      },
+      {
+        "userId": 3,
+        "userName": "knight",
+        "status": "online",
+        "pfp": "/pfp2.jpg"
+      },
+      {
+        "userId": 3,
+        "userName": "darklord",
+        "status": "offline",
+        "pfp": "/pfp3.png"
+      }
+    ],
+    "channels": [
+      {
+        "channel": {
+          "name": "general",
+          "messages": [
+            {
+              "username": "evil",
+              "message": "wsg bro",
+              "time": "today 23:34",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "darklord",
+              "message": "Not much, you?",
+              "time": "today 23:35",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "evil",
+              "message": "Chillin",
+              "time": "today 23:36",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "knight",
+              "message": "Anyone gaming?",
+              "time": "today 23:37",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "evil",
+              "message": "Maybe later",
+              "time": "today 23:38",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "darklord",
+              "message": "I'm down",
+              "time": "today 23:39",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "knight",
+              "message": "Let's go then",
+              "time": "today 23:40",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "evil",
+              "message": "In a bit",
+              "time": "today 23:41",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "darklord",
+              "message": "Bet",
+              "time": "today 23:42",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "knight",
+              "message": "Alright, waiting",
+              "time": "today 23:43",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "evil",
+              "message": "What game?",
+              "time": "today 23:44",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "darklord",
+              "message": "Thinking of CoD",
+              "time": "today 23:45",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "knight",
+              "message": "Sounds good!",
+              "time": "today 23:46",
+              "pfp": "/pfp3.png"
+            }
+          ]
+        }
+      },
+      {
+        "channel": {
+          "name": "memes",
+          "messages": [
+            {
+              "username": "evil",
+              "message": "Check this meme",
+              "time": "today 22:12",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "darklord",
+              "message": "Lol",
+              "time": "today 22:13",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "knight",
+              "message": "Hilarious!",
+              "time": "today 22:14",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "evil",
+              "message": "I know right?",
+              "time": "today 22:15",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "darklord",
+              "message": "Got more?",
+              "time": "today 22:16",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "knight",
+              "message": "Share them",
+              "time": "today 22:17",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "evil",
+              "message": "Hold on",
+              "time": "today 22:18",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "darklord",
+              "message": "Waiting...",
+              "time": "today 22:19",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "knight",
+              "message": "Still waiting",
+              "time": "today 22:20",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "evil",
+              "message": "Uploading",
+              "time": "today 22:21",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "darklord",
+              "message": "What’s so funny?",
+              "time": "today 22:22",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "knight",
+              "message": "I need a good laugh",
+              "time": "today 22:23",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "evil",
+              "message": "Just a classic!",
+              "time": "today 22:24",
+              "pfp": "/pfp1.webp"
+            }
+          ]
+        }
+      },
+      {
+        "channel": {
+          "name": "gaming",
+          "messages": [
+            {
+              "username": "evil",
+              "message": "Who's up for some CoD?",
+              "time": "today 20:10",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "knight",
+              "message": "Me!",
+              "time": "today 20:11",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "darklord",
+              "message": "Let's go",
+              "time": "today 20:12",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "evil",
+              "message": "Starting lobby",
+              "time": "today 20:13",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "knight",
+              "message": "I'm in",
+              "time": "today 20:14",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "darklord",
+              "message": "On my way",
+              "time": "today 20:15",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "evil",
+              "message": "Let's dominate",
+              "time": "today 20:16",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "knight",
+              "message": "Always",
+              "time": "today 20:17",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "darklord",
+              "message": "Winning streak!",
+              "time": "today 20:18",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "evil",
+              "message": "GG!",
+              "time": "today 20:19",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "knight",
+              "message": "Ready for round two?",
+              "time": "today 20:20",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "darklord",
+              "message": "Always down for more!",
+              "time": "today 20:21",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "evil",
+              "message": "Same here!",
+              "time": "today 20:22",
+              "pfp": "/pfp1.webp"
+            }
+          ]
+        }
+      },
+      {
+        "channel": {
+          "name": "music",
+          "messages": [
+            {
+              "username": "evil",
+              "message": "New MF DOOM track dropped!",
+              "time": "today 19:00",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "knight",
+              "message": "For real?",
+              "time": "today 19:01",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "darklord",
+              "message": "It's fire",
+              "time": "today 19:02",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "evil",
+              "message": "Absolutely",
+              "time": "today 19:03",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "knight",
+              "message": "Listening now",
+              "time": "today 19:04",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "darklord",
+              "message": "Looping this all night",
+              "time": "today 19:05",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "evil",
+              "message": "Same here",
+              "time": "today 19:06",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "knight",
+              "message": "Best drop this year",
+              "time": "today 19:07",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "darklord",
+              "message": "Agreed",
+              "time": "today 19:08",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "evil",
+              "message": "Legend",
+              "time": "today 19:09",
+              "pfp": "/pfp1.webp"
+            },
+            {
+              "username": "knight",
+              "message": "Who's your favorite artist?",
+              "time": "today 19:10",
+              "pfp": "/pfp3.png"
+            },
+            {
+              "username": "darklord",
+              "message": "Always MF DOOM!",
+              "time": "today 19:11",
+              "pfp": "/pfp2.jpg"
+            },
+            {
+              "username": "evil",
+              "message": "Can't argue with that!",
+              "time": "today 19:12",
+              "pfp": "/pfp1.webp"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "users": [
+      {
+        "userId": 1,
+        "userName": "mellow",
+        "status": "online",
+        "pfp": "/pfp5.jpg"
+      },
+      {
+        "userId": 2,
+        "userName": "lazy",
+        "status": "offline",
+        "pfp": "/pfp4.jpg"
+      }
+    ],
+    "name": "chillcord",
+    "icon": "/server2.jpg",
+    "channels": [
+      {
+        "channel": {
+          "name": "chill-zone",
+          "messages": [
+            {
+              "username": "mellow",
+              "message": "Hey there!",
+              "time": "today 21:00",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "What’s up?",
+              "time": "today 21:01",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Just relaxing",
+              "time": "today 21:02",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Same here",
+              "time": "today 21:03",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Any plans for today?",
+              "time": "today 21:04",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Just chilling",
+              "time": "today 21:05",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Cool cool",
+              "time": "today 21:06",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "What about you?",
+              "time": "today 21:07",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Binge-watching some shows",
+              "time": "today 21:08",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Nice! Which ones?",
+              "time": "today 21:09",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Just finished a series",
+              "time": "today 21:10",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Was it good?",
+              "time": "today 21:11",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Really enjoyed it",
+              "time": "today 21:12",
+              "pfp": "/pfp4.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "channel": {
+          "name": "movies",
+          "messages": [
+            {
+              "username": "mellow",
+              "message": "Watched a great movie last night",
+              "time": "today 20:00",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "What was it?",
+              "time": "today 20:01",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Inception",
+              "time": "today 20:02",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Classic!",
+              "time": "today 20:03",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Definitely a mind-bender",
+              "time": "today 20:04",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "I've seen it like 5 times",
+              "time": "today 20:05",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "It's worth the rewatch",
+              "time": "today 20:06",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "What other movies do you like?",
+              "time": "today 20:07",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "I love sci-fi",
+              "time": "today 20:08",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Me too!",
+              "time": "today 20:09",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "What's your favorite?",
+              "time": "today 20:10",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Interstellar",
+              "time": "today 20:11",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Another masterpiece!",
+              "time": "today 20:12",
+              "pfp": "/pfp4.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "channel": {
+          "name": "music",
+          "messages": [
+            {
+              "username": "mellow",
+              "message": "Discovered a new band!",
+              "time": "today 19:30",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Who?",
+              "time": "today 19:31",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Tame Impala",
+              "time": "today 19:32",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Nice!",
+              "time": "today 19:33",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Their sound is amazing",
+              "time": "today 19:34",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "What genre?",
+              "time": "today 19:35",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Psychedelic rock",
+              "time": "today 19:36",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Love that genre",
+              "time": "today 19:37",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Same here!",
+              "time": "today 19:38",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Any recommendations?",
+              "time": "today 19:39",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "Check out 'The Less I Know the Better'",
+              "time": "today 19:40",
+              "pfp": "/pfp4.jpg"
+            },
+            {
+              "username": "lazy",
+              "message": "Will do!",
+              "time": "today 19:41",
+              "pfp": "/pfp5.jpg"
+            },
+            {
+              "username": "mellow",
+              "message": "You won’t regret it!",
+              "time": "today 19:42",
+              "pfp": "/pfp4.jpg"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
